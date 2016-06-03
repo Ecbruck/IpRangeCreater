@@ -3,5 +3,5 @@
 * Input:
 http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest 
 
-*Output:
+* Output:
 ip/mask.txt
